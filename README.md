@@ -1,5 +1,8 @@
 # 🍋 Lemonade Mobile: local AI server companion app
 
+**→ [Project Wiki](docs/wiki/README.md)** — architecture, decisions, gotchas, and agent onboarding.
+
+
 <table>
   <tr>
     <td>
