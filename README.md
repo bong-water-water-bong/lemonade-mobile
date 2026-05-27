@@ -1,5 +1,11 @@
 # 🍋 Lemonade Mobile: local AI server companion app
 
+**→ [Project Wiki](docs/wiki/README.md)** — architecture, decisions, gotchas, and agent onboarding.
+The wiki is stored in `docs/wiki/`; read it before changing the core
+app flow, and update the relevant wiki page whenever a change alters
+architecture, server behavior, agent handoff, or system decisions.
+
+
 <table>
   <tr>
     <td>
