@@ -29,3 +29,16 @@ To provide a polished, multi-platform chat interface for Lemonade AI servers, fe
 - **Isar Community**: Using `isar_community` instead of the original `isar` to ensure compatibility with 16KB page-size requirements (Android 15+).
 - **Offline-First Persistence**: Chat history is stored locally to ensure availability without server connection.
 - **OpenAI Compatibility**: Designed to work with any OpenAI-compatible endpoint, not just official Lemonade servers.
+
+## LLM Wiki Standard
+
+This repo treats Andrej Karpathy's LLM Wiki pattern as the governing source for agent knowledge management: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+
+For this project:
+
+- Raw source is repo files, docs, examples, tests, issues, PRs, and specs.
+- `docs/wiki/` summarizes durable knowledge future agents need.
+- `AGENTS.md` defines agent behavior and repo rules.
+- `openspec/` defines proposed and active structured changes.
+
+Keep wiki entries concise, factual, and linked back to concrete files, specs, or test evidence.
